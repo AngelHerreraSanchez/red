@@ -101,3 +101,11 @@ caption {
     text-align: center;
 }
 
+li:nth-child(odd){
+    background-color: purple;
+}
+
+#favWeb:hover{
+    background-color: aqua;
+}
+
